@@ -4,4 +4,4 @@
 - Simplistic Driving Behavior
 - Rigorous Driving Behaviour
 - Collision Avoidance Behaviour
-- NVDIA vs Our Approach (Comparison against state-of-the-art)
+- NVIDIA's Approach vs Our Approach
