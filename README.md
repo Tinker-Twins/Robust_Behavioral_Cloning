@@ -1,6 +1,6 @@
 # Robust Behavioral Cloning for Autonomous Vehicles
 
-## Driving Scenarios
+## Driving Scenarios (Behaviors)
 - Simplistic Driving Behavior
 - Rigorous Driving Behaviour
 - Collision Avoidance Behaviour
