@@ -4,4 +4,4 @@
 - Simplistic Driving Behavior
 - Rigorous Driving Behaviour
 - Collision Avoidance Behaviour
-- NVIDIA's Approach vs Our Approach
+- NVIDIA's Approach vs Our Approach (Simplistic Driving Behavior)
