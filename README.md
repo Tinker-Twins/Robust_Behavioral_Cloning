@@ -10,4 +10,4 @@ In this work, we present a lightweight pipeline for robust behavioral cloning of
 
 - [Simplistic Driving Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/1.%20Simplistic%20Driving%20Behaviour)
 - [Rigorous Driving Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/2.%20Rigorous%20Driving%20Behaviour)
-- Collision Avoidance Behavior
+- [Collision Avoidance Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/3.%20Collision%20Avoidance%20Behaviour)
