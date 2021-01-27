@@ -19,7 +19,7 @@ The simulation system employed for validating the proposed pipeline was a rework
 Implementation demonstrations pertaining to this research on robust behavioral cloning for autonomous vehicles are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9-M6_ZBjynKyPlq5YsCzMCe).
 
 ## Citation
-Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using the Behavioral Cloning Simulator for your research:
+Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using any part of this work for your research:
 
 ```bibtex
 @article{RBCAV2021,
