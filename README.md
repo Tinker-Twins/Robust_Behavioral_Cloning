@@ -16,7 +16,7 @@ The simulation system employed for validating the proposed pipeline was a rework
 - [Collision Avoidance Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/3.%20Collision%20Avoidance%20Behaviour)
 
 ## DEMO
-Implementation demonstrations pertaining to this research on robust behavioral cloning for autonomous vehicles are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9_OskmgHXuzW8HmOhWWIqcu).
+Implementation demonstrations pertaining to this research on robust behavioral cloning for autonomous vehicles are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9-M6_ZBjynKyPlq5YsCzMCe).
 
 ## CITATION
 Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using the Behavioral Cloning Simulator for your research:
