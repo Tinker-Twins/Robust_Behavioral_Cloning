@@ -9,7 +9,7 @@ The simulation system employed for validating the proposed pipeline was a rework
 
 | Lake Track | Mountain Track |
 | :------------------:| :------------------: | :------------------: |
-| ![Simplistic Driving Behavior](Simplistic-Driving-Behavior.png) | ![Rigorous Driving Behavior](Rigorous-Driving-Behavior.png) | ![Collision Avoidance Behavior](Collision-Avoidance-Behavior.png) |
+| ![Simplistic Driving Scenario](Simplistic-Driving-Scenario.png) | ![Rigorous Driving Scenario](Rigorous-Driving-Scenario.png) | ![Collision Avoidance Scenario](Collision-Avoidance-Scenario.png) |
 
 - [Simplistic Driving Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/1.%20Simplistic%20Driving%20Behaviour)
 - [Rigorous Driving Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/2.%20Rigorous%20Driving%20Behaviour)
