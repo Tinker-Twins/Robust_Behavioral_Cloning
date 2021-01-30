@@ -36,15 +36,16 @@ The `Lake Track` is used for training and testing simplistic driving and collisi
 
 ### Mountain Track
 
-| Parameter | Original Value | Variation |
-| :-------: | :-------: | :-------: |
-| Obstacles | 0 | 0 |
-| Light Intensity | 1.0 cd | ±0.1 cd |
-| Light Direction (X-Axis) | 50 deg | ±1 deg |
-| Vehicle Position | Pos: 170.62, -79.6, -46.36 m<br>Rot: 0, 90, 0 deg| Pos: 170.62, -79.6, -56.36 m<br>Rot: 0, 90, 0 deg |
-| Vehicle Orientation (Y-Axis) | 90 deg | ±5 deg |
-| Vehicle Heading Inversion | Pos: 170.62, -79.6, -46.36 m<br>Rot: 0, 90, 0 deg | Pos: 170.62, -79.6, -41.86 m<br>Rot: 0, 270, 0 deg |
-| Speed Limit | Python script: 25 km/h<br>Unity editor: 30 km/h | +5 km/h (same in Python <br>script and Unity editor) |
+| Experiment | Parameter | Original Value | Variation |
+| :--------: | :-------: | :-------: | :-------: |
+| No variation | None | NA | NA |
+| Scene obstacle variation | Obstacles | NA | NA |
+| Scene light intensity variation | Light intensity | 1.0 cd | ±0.1 cd |
+| Scene light direction variation | Light direction (X-axis) | 50 deg | ±1 deg |
+| Vehicle position variation | Vehicle pose | Pos: 170.62, -79.6, -46.36 m<br>Rot: 0, 90, 0 deg| Pos: 170.62, -79.6, -56.36 m<br>Rot: 0, 90, 0 deg |
+| Vehicle orientation variation | Vehicle orientation (Y-axis) | 90 deg | ±5 deg |
+| Vehicle heading inversion | Vehicle pose | Pos: 170.62, -79.6, -46.36 m<br>Rot: 0, 90, 0 deg | Pos: 170.62, -79.6, -41.86 m<br>Rot: 0, 270, 0 deg |
+| Vehicle speed limit variation | Speed limit | Python script: 25 km/h<br>Unity editor: 30 km/h | +5 km/h (same in Python <br>script and Unity editor) |
 
 ## Demo
 Implementation demonstrations pertaining to this research on robust behavioral cloning for autonomous vehicles are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9-M6_ZBjynKyPlq5YsCzMCe).
