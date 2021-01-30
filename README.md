@@ -5,7 +5,15 @@ In this work, we present a lightweight pipeline for robust behavioral cloning of
 ## Simulation System
 The simulation system employed for validating the proposed pipeline was a rework of an [open source simulator](https://github.com/udacity/self-driving-car-sim) developed by Udacity. The simulator source files can be found [here](https://github.com/Tinker-Twins/Behavioral-Cloning-Simulator).
 
-The simulator currently supports two tracks for training and testing three different driving behaviors. The `Lake Track` is used for training and testing simplistic driving and collision avoidance behaviors, while the `Mountain Track` is used for training and testing rigorous driving behavior.
+The simulator currently supports two tracks, viz. `Lake Track` and `Mountain Track`, for training and testing three different driving behaviors.
+
+| Lake Track | Mountain Track |
+| :---------:| :------------: |
+| ![Lake Track](Lake-Track.png) | ![Mountain Track](Mountain-Track.png) |
+
+## Driving Scenarios
+
+The `Lake Track` is used for training and testing simplistic driving and collision avoidance behaviors, while the `Mountain Track` is used for training and testing rigorous driving behavior.
 
 | Simplistic Driving Scenario | Rigorous Driving Scenario | Collision Avoidance Scenario |
 | :-------------------------: | :-----------------------: | :--------------------------: |
