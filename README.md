@@ -84,7 +84,9 @@ This analysis pipeline is scripted in `Python3` and is implemented in the form o
 
 The deployment pipeline is scripted in `Python3` and is implemented in the raw form to enable command-line execution. It implements a WebSocket interface with the `Behavioral Cloning Simulator` to acquire live camera feed from the simulated camera on-board the vehicle. It then uses the same preprocessing pipeline adopted during training phase so as to preprocess the camera frames in real-time. It also loads the trained model to predict lateral control command (i.e. steering) using the preprocessed frame. Next, it defines an adaptive longitudinal control law to compute the longitudinal control command (i.e. throttle and brake) based on the predicted steering angle, actual vehicle speed and the prescribed speed and steering limits. Finally it sends the control commands to the simulator to drive the vehicle autonomously.
 
-`Drive.py` file in each of the four directories implements the respective deployment pipeline.
+`Drive.py` file in each of the four directories implements the respective deployment pipeline. It can also be used to measure the deployment latency.
+
+_**Note:** Please make sure to appropriately modify the `Preprocessing Pipeline` and `NN Model` before using this python script for deploying any other driving behavior._
 
 ### Data Logging & Simulated Field Results
 
