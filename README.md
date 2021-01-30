@@ -76,11 +76,15 @@ The training pipeline is scripted in `Python3` and is implemented in the form of
 
 ### Activation Visualization & Prediction Analysis
 
-This analysis pipeline is scripted in `Python3` and is implemented in the form of an `IPYNB`. It comprises of loading data for ~1 lap, loading trained model and using it to visualize the convolution filters, activation maps and steering angle predictions.
+This analysis pipeline is scripted in `Python3` and is implemented in the form of an `IPYNB`. It comprises of loading data for ~1 lap, loading the trained model and using it to visualize the convolution filters, activation maps and steering angle predictions.
 
 `Prediction.ipynb` file in each of the four directories implements the respective analysis pipeline and the results are stored in the `Results` direcotry within respective directories.
 
 ### Deployment
+
+The deployment pipeline is scripted in `Python3` and is implemented in the raw form to enable command-line execution. It implements a WebSocket interface with the `Behavioral Cloning Simulator` to acquire live camera feed from the simulated camera on-board the vehicle. It then uses the same preprocessing pipeline adopted during training phase so as to preprocess the camera frames in real-time. It also loads the trained model to predict lateral control command (i.e. steering) using the preprocessed frame. Next, it defines an adaptive longitudinal control law to compute the longitudinal control command (i.e. throttle and brake) based on the predicted steering angle, actual vehicle speed and the prescribed speed and steering limits. Finally it sends the control commands to the simulator to drive the vehicle autonomously.
+
+`Drive.py` file in each of the four directories implements the respective deployment pipeline.
 
 ### Data Logging & Simulated Field Results
 
