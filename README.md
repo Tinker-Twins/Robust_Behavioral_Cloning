@@ -90,6 +90,18 @@ _**Note:** Please make sure to appropriately modify the `Preprocessing Pipeline`
 
 ### Data Logging & Simulated Field Results
 
+Use the `Generate Driving Log` button in `Training Mode` and/or `Deployment Mode` to log the following data within Unity Editor:
+  - Vehicle Position X-Coordinate
+  - Vehicle Position Z-Coordinate
+  - Throttle Command
+  - Brake Command
+  - Steering Command
+  - Vehicle Speed
+  
+The field result plots can be generated using a MATLAB Script by loading the data into it.
+
+Sample MATLAB Scripts (`*.m` files) along with the generated plots are available within the `Results` direcotry of each of the three driving behaviors.
+
 ## Demo
 Implementation demonstrations pertaining to this research on robust behavioral cloning for autonomous vehicles are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9-M6_ZBjynKyPlq5YsCzMCe).
 
