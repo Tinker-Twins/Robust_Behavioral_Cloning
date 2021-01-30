@@ -23,15 +23,16 @@ The `Lake Track` is used for training and testing simplistic driving and collisi
 
 ### Lake Track
 
-| Parameter | Original Value | Variation |
-| :-------: | :-------: | :-------: |
-| Obstacles | 0 | {0, 10, 20} |
-| Light Intensity | 1.6 cd | ±0.1 cd |
-| Light Direction (X-Axis) | 42.218 deg | ±1 deg |
-| Vehicle Position | Pos: 179.81, 1.8, 89.86 m<br>Rot: 0, 7.103, 0 deg| Pos: -40.62, 1.8, 108.73 m<br>Rot: 0, 236.078, 0 deg |
-| Vehicle Orientation (Y-Axis) | 7.103 deg | ±5 deg |
-| Vehicle Heading Inversion | Pos: 179.81, 1.8, 89.86 m<br>Rot: 0, 7.103, 0 deg | Pos: 179.81, 1.8, 89.86 m<br>Rot: 0, 187.103, 0 deg |
-| Speed Limit | Python script: 25 km/h<br>Unity editor: 30 km/h | +5 km/h (same in Python <br>script and Unity editor) |
+| Experiment | Parameter | Original Value | Variation |
+| :--------: | :-------: | :-------: | :-------: |
+| No variation | None | NA | NA |
+| Scene obstacle variation | Obstacles | 0 | {0, 10, 20} |
+| Scene light intensity variation | Light intensity | 1.6 cd | ±0.1 cd |
+| Scene light direction variation | Light direction (X-axis) | 42.218 deg | ±1 deg |
+| Vehicle position variation | Vehicle pose | Pos: 179.81, 1.8, 89.86 m<br>Rot: 0, 7.103, 0 deg| Pos: -40.62, 1.8, 108.73 m<br>Rot: 0, 236.078, 0 deg |
+| Vehicle orientation variation | Vehicle orientation (Y-axis) | 7.103 deg | ±5 deg |
+| Vehicle heading inversion | Vehicle pose | Pos: 179.81, 1.8, 89.86 m<br>Rot: 0, 7.103, 0 deg | Pos: 179.81, 1.8, 89.86 m<br>Rot: 0, 187.103, 0 deg |
+| Vehicle speed limit variation | Speed limit | Python script: 25 km/h<br>Unity editor: 30 km/h | +5 km/h (same in Python <br>script and Unity editor) |
 
 ### Mountain Track
 
