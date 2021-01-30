@@ -47,6 +47,18 @@ The `Lake Track` is used for training and testing simplistic driving and collisi
 | Vehicle heading inversion | Vehicle pose | Pos: 170.62, -79.6, -46.36 m<br>Rot: 0, 90, 0 deg | Pos: 170.62, -79.6, -41.86 m<br>Rot: 0, 270, 0 deg |
 | Vehicle speed limit variation | Speed limit | Python script: 25 km/h<br>Unity editor: 30 km/h | +5 km/h (same in Python <br>script and Unity editor) |
 
+## Implementation
+
+### Data Collection
+
+### Training Pipeline
+
+### Activation Visualization & Prediction Analysis
+
+### Deployment
+
+### Data Logging & Simulated Field Results
+
 ## Demo
 Implementation demonstrations pertaining to this research on robust behavioral cloning for autonomous vehicles are available on [YouTube](https://youtube.com/playlist?list=PLY45pkzWzH9-M6_ZBjynKyPlq5YsCzMCe).
 
