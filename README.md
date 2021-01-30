@@ -51,6 +51,23 @@ The `Lake Track` is used for training and testing simplistic driving and collisi
 
 ### Data Collection
 
+Pre-recorded datasets are available within this repository. They can be accessed within each of the four directories:
+
+- [Simplistic Driving Behavior](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/1.%20Simplistic%20Driving%20Behaviour/Dataset)
+- [Rigorous Driving Behaviour](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/2.%20Rigorous%20Driving%20Behaviour/Dataset)
+- [Collision Avoidance Behaviour](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/3.%20Collision%20Avoidance%20Behaviour/Dataset)
+- [NVIDIA's Approach vs Our Approach](https://github.com/Tinker-Twins/Robust_Behavioral_Cloning/tree/main/4.%20NVIDIA's%20Approach%20vs%20Our%20Approach/Dataset)
+
+To record your own dataset, follow the following steps:
+
+- Launch the `Behavioral Cloning Simulator` (available [here](https://github.com/Tinker-Twins/Behavioral-Cloning-Simulator)).
+- Select the track (`Lake Track` or `Mountain Track`).
+- Select `Training Mode`.
+- Click the `Record` button first time to select the directory to store the recorded dataset.
+- Click the `Record` button second time to start recording the dataset.
+- Drive the vehicle manually (click `Controls` button in `Main Menu` to get acquainted with the manual controls).
+- Click the `Recording` button to stop recording the dataset. The button will show recording progress.
+
 ### Training Pipeline
 
 ### Activation Visualization & Prediction Analysis
