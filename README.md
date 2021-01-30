@@ -70,11 +70,15 @@ To record your own dataset, follow the following steps:
 
 ### Training Pipeline
 
-The training pipeline is scripted in `Python3` and is implemented in the form of an `IPYNB`. The training pipeline comprises of data balancing, augmentation, preprocessing, training a neural network and saving the trained model.
+The training pipeline is scripted in `Python3` and is implemented in the form of an `IPYNB`. It comprises of data balancing, augmentation, preprocessing, training a neural network and saving the trained model.
 
 `Training.ipynb` file in each of the four directories implements the respective training pipeline and the trained models are also available in the respective directories as `H5` files.
 
 ### Activation Visualization & Prediction Analysis
+
+This analysis pipeline is scripted in `Python3` and is implemented in the form of an `IPYNB`. It comprises of loading data for ~1 lap, loading trained model and using it to visualize the convolution filters, activation maps and steering angle predictions.
+
+`Prediction.ipynb` file in each of the four directories implements the respective analysis pipeline and the results are stored in the `Results` direcotry within respective directories.
 
 ### Deployment
 
