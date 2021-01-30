@@ -3,7 +3,7 @@
 In this work, we present a lightweight pipeline for robust behavioral cloning of a human driver using end-to-end imitation learning. The proposed pipeline was employed to train and deploy three distinct driving behavior models onto a simulated vehicle.
 
 ## Simulation System
-The simulation system employed for validating the proposed pipeline was a rework of an [open source simulator](https://github.com/udacity/self-driving-car-sim) developed by Udacity. The simulator source files can be found [here](https://github.com/Tinker-Twins/Behavioral-Cloning-Simulator).
+The simulation system employed for validating the proposed pipeline was a rework of an [open source simulator](https://github.com/udacity/self-driving-car-sim) developed by Udacity. The source files of the `Behavioral Cloning Simulator` can be found [here](https://github.com/Tinker-Twins/Behavioral-Cloning-Simulator).
 
 The simulator currently supports two tracks, viz. `Lake Track` and `Mountain Track`, for training and testing three different driving behaviors.
 
