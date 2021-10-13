@@ -109,7 +109,7 @@ Implementation demonstrations pertaining to this research on robust behavioral c
 Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using any part of this work for your research:
 
 ```bibtex
-@eprint{RBCAV2021,
+@eprint{RBCAV-2021,
       title={Robust Behavioral Cloning for Autonomous Vehicles using End-to-End Imitation Learning}, 
       author={Tanmay Vilas Samak and Chinmay Vilas Samak and Sivanathan Kandhasamy},
       year={2021},
