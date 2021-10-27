@@ -107,14 +107,19 @@ Implementation demonstrations pertaining to this research on robust behavioral c
 
 ## Citation
 Please cite the [following paper](https://arxiv.org/abs/2010.04767) when using any part of this work for your research:
-
 ```bibtex
-@eprint{RBCAV-2021,
-      title={Robust Behavioral Cloning for Autonomous Vehicles using End-to-End Imitation Learning}, 
-      author={Tanmay Vilas Samak and Chinmay Vilas Samak and Sivanathan Kandhasamy},
-      year={2021},
-      eprint={2010.04767},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@article{RBCAV-2021,
+author = {Samak, Tanmay Vilas and Samak, Chinmay Vilas and Kandhasamy, Sivanathan},
+title = {Robust Behavioral Cloning for Autonomous Vehicles Using End-to-End Imitation Learning},
+journal = {SAE International Journal of Connected and Automated Vehicles},
+volume = {4},
+number = {3},
+pages = {279-295},
+month = {aug},
+year = {2021},
+doi = {10.4271/12-04-03-0023},
+url = {https://doi.org/10.4271/12-04-03-0023},
+issn = {2574-0741}
 }
 ```
+This work has been published in SAE International Journal of Connected and Automated Vehicles, as a part of their Special Issue on Machine Learning and Deep Learning Techniques for Connected and Autonomous Vehicle Applications. The publication can be found on [SAE Mobilus](https://saemobilus.sae.org/content/12-04-03-0023).
