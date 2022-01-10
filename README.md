@@ -122,4 +122,4 @@ url = {https://doi.org/10.4271/12-04-03-0023},
 issn = {2574-0741}
 }
 ```
-This work has been published in SAE International Journal of Connected and Automated Vehicles, as a part of their Special Issue on Machine Learning and Deep Learning Techniques for Connected and Autonomous Vehicle Applications. The publication can be found on [SAE Mobilus](https://saemobilus.sae.org/content/12-04-03-0023).
+This work has been published in **SAE International Journal of Connected and Automated Vehicles**, as a part of their **Special Issue on Machine Learning and Deep Learning Techniques for Connected and Autonomous Vehicle Applications.** The publication can be found on [SAE Mobilus](https://saemobilus.sae.org/content/12-04-03-0023).
