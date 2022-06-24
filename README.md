@@ -1,5 +1,8 @@
 # Robust Behavioral Cloning for Autonomous Vehicles
 
+![Github Stars](https://badgen.net/github/stars/Tinker-Twins/Robust_Behavioral_Cloning?icon=github&label=stars)
+![Github Forks](https://badgen.net/github/forks/Tinker-Twins/Robust_Behavioral_Cloning?icon=github&label=forks)
+
 In this work, we present a lightweight pipeline for robust behavioral cloning of a human driver using end-to-end imitation learning. The proposed pipeline was employed to train and deploy three distinct driving behavior models onto a simulated vehicle.
 
 ## Simulation System
