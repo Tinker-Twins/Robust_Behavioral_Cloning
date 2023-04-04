@@ -40,7 +40,7 @@ The `Lake Track` is used for training and testing simplistic driving and collisi
 
 ### Mountain Track
 
-| Experiment | Parameter | Original Value | Variation |
+| Experiment | Parameter | Original Value | Variation Step Size |
 | :--------: | :-------: | :-------: | :-------: |
 | No variation | None | NA | NA |
 | Scene obstacle variation | Obstacles | NA | NA |
